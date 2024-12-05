@@ -1,4 +1,4 @@
-# **This repository provides the source code to replicate the experiments presented in the [Does Gender Matter? Examining and Mitigating Gender Bias in Fake News Detection]() paper**.
+# [Does Gender Matter? Examining and Mitigating Gender Bias in Fake News Detection]() 
 
 The proliferation of fake news poses significant challenges
 to both individuals and society. While numerous studies have developed
