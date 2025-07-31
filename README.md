@@ -16,4 +16,11 @@ adversarial debaising approach. Our results demonstrate improved fairness and pe
 
 ## Citation
 
-Sallami, Dorsaf, and Esma Aïmeur. "Does Gender Matter? Examining and Mitigating Gender Bias in Fake News Detection." International Symposium on Foundations and Practice of Security. Cham: Springer Nature Switzerland, 2024.
+@inproceedings{sallami2024does,
+  title={Does Gender Matter? Examining and Mitigating Gender Bias in Fake News Detection},
+  author={Sallami, Dorsaf and A{\"\i}meur, Esma},
+  booktitle={International Symposium on Foundations and Practice of Security},
+  pages={249--266},
+  year={2024},
+  organization={Springer}
+}
