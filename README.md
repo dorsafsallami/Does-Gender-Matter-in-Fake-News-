@@ -14,3 +14,6 @@ models, with models trained on female data outperforming those trained
 on male data. In response, we propose mitigating gender bias using an
 adversarial debaising approach. Our results demonstrate improved fairness and performance metrics compared to baseline models.
 
+## Citation
+
+Sallami, Dorsaf, and Esma Aïmeur. "Does Gender Matter? Examining and Mitigating Gender Bias in Fake News Detection." International Symposium on Foundations and Practice of Security. Cham: Springer Nature Switzerland, 2024.
